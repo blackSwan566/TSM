@@ -18,7 +18,7 @@ struct ContentView: View {
                InformationView()
                     .tabItem {
                         Label("Favourites",
-                              systemImage: "star")
+                              systemImage: "star:")
                     }
                 }
         }
